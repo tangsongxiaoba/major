@@ -1,58 +1,82 @@
 {
   "team_1": {
-    "name": "MONG",
+    "name": "COL",
     "init_seed": 1,
-    "battle_value": 1000,
-    "l_factor": 0.85,
-    "r_factor": 1.15
+    "battle_value": 900
   },
   "team_2": {
-    "name": "VITA",
+    "name": "HEROIC",
     "init_seed": 2,
-    "battle_value": 1000,
-    "l_factor": 0.85,
-    "r_factor": 1.15
+    "battle_value": 1000
   },
   "team_3": {
-    "name": "G2",
+    "name": "B8",
     "init_seed": 3,
-    "battle_value": 950,
-    "l_factor": 0.85,
-    "r_factor": 1.15
+    "battle_value": 900
   },
   "team_4": {
-    "name": "SPIR",
+    "name": "BB",
     "init_seed": 4,
-    "battle_value": 950,
-    "l_factor": 0.85,
-    "r_factor": 1.15
+    "battle_value": 900
   },
   "team_5": {
-    "name": "LIQU",
+    "name": "TYLOO",
     "init_seed": 5,
-    "battle_value": 950,
-    "l_factor": 0.85,
-    "r_factor": 1.15
+    "battle_value": 1000
   },
   "team_6": {
-    "name": "HERO",
+    "name": "LVG",
     "init_seed": 6,
-    "battle_value": 900,
-    "l_factor": 0.85,
-    "r_factor": 1.15
+    "battle_value": 850
   },
   "team_7": {
-    "name": "FAZE",
+    "name": "WC",
     "init_seed": 7,
-    "battle_value": 900,
-    "l_factor": 0.85,
-    "r_factor": 1.15
+    "battle_value": 800
   },
   "team_8": {
-    "name": "MOUZ",
+    "name": "FLYQ",
     "init_seed": 8,
-    "battle_value": 900,
-    "l_factor": 0.85,
-    "r_factor": 1.15
+    "battle_value": 800
+  },
+  "team_9": {
+    "name": "OG",
+    "init_seed": 9,
+    "battle_value": 900
+  },
+  "team_10": {
+    "name": "CW",
+    "init_seed": 10,
+    "battle_value": 750
+  },
+  "team_11": {
+    "name": "IMPE",
+    "init_seed": 11,
+    "battle_value": 800
+  },
+  "team_12": {
+    "name": "NEMIGA",
+    "init_seed": 12,
+    "battle_value": 800
+  },
+  "team_13": {
+    "name": "NRG",
+    "init_seed": 13,
+    "battle_value": 750
+  },
+  "team_14": {
+    "name": "LEGACY",
+    "init_seed": 14,
+    "battle_value": 850
+  },
+  "team_15": {
+    "name": "METIZ",
+    "init_seed": 15,
+    "battle_value": 800
+  },
+  "team_16": {
+    "name": "FLUXO",
+    "init_seed": 16,
+    "battle_value": 800
   }
 }
